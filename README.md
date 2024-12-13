@@ -1,4 +1,4 @@
-[7:36 PM, 12/11/2024] ☺️: <!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -28,73 +28,4 @@
   </section>
 
   <footer>
-    <p>Contact: bharathkumar@example.com</p>
-  </footer>
-</body>
-</html>
-[7:36 PM, 12/11/2024] ☺️: /* Reset default margin and padding */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Body styling */
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-  line-height: 1.6;
-}
-
-/* Header styling */
-header {
-  background-color: #4CAF50;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
-
-header h1 {
-  margin: 0;
-  font-size: 2.5rem;
-}
-
-header p {
-  font-size: 1.2rem;
-}
-
-/* Section styling */
-section {
-  padding: 20px;
-  margin: 20px auto;
-  max-width: 900px;
-  background-color: white;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-h2 {
-  color: #4CAF50;
-  margin-bottom: 10px;
-}
-
-ul {
-  list-style-type: none;
-}
-
-ul li {
-  margin-bottom: 10px;
-}
-
-/* Footer styling */
-footer {
-  background-color: #333;
-  color: white;
-  padding: 10px;
-  text-align: center;
-}
-
-footer p {
-  margin: 0;
-  font-size: 1rem;
-}
+    <p>Contact: bharathkumarcse2021@gmail.com</p>
