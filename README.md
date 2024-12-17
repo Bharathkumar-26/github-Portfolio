@@ -33,8 +33,5 @@ Detection of cyber bullying attacks on instagram using machine learning algorith
 ---
 ## 📣 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BEUCMA0JQSI2VZFS59Sfu6A%3D%3D/)![image](https://github.com/user-attachments/assets/b4d1fef4-3167-43a1-8a95-7ee1b92225d1)
-- [Instagram](https://www.instagram.com/_itz_bharath_26/?hl=en#)![image](https://github.com/user-attachments/assets/c3c0997d-0534-4d89-8e9a-7b2dedeef3ec)
-
----
-
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BEUCMA0JQSI2VZFS59Sfu6A%3D%3D/)
+- [Mob no](9345534901)
