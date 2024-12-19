@@ -2,8 +2,6 @@
 
 I'm currently pursuing my **B.Tech in Computer Science & Engineering**. I have a strong passion for coding and solving complex problems. My primary focus is on building software solutions using various programming languages and technologies. Below, you'll find some of the projects and skills that I’m currently working with!
 
----
-
 ## 🚀 Technologies & Skills
 
 Here are some of the technologies I've worked with:
